@@ -34,3 +34,6 @@ Eu me chamo Pedro Gabriel Gomes, tenho 19 anos e sou natural de Luziânia-GO, ao
     />
 <br/>
 </p>
+[![opgmoraes](https://github-readme-stats.vercel.app/api?username=opgmoraes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![opgmoraes](https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
