@@ -32,7 +32,7 @@
 ---
 
 ### ⚡ Curiosidades
-- 🚀 Criando e aprendendo obre MicroSaas
+- 🚀 Criando e aprendendo sobre MicroSaas
 - ☕ Viciado em café coado ☕
 - 🏃 Corredor Amador
 
