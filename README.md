@@ -26,8 +26,7 @@
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)  
-- 📸 Instagram Dev: `@opgmoraes`  
+- 💼 LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)   
 - 📧 E-mail: `pedrogm.dev@gmail.com`
 
 ---
@@ -40,6 +39,6 @@
 
 ---
 
-### 📊 Dashboard de Linguagens (uso percentual)
+### 📊 Dashboard de Linguagens 
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&layout=donut&theme=dark)](https://github.com/opgmoraes)
