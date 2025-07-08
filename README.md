@@ -1,4 +1,3 @@
-<h1 align="center">Pedro Gabriel Gomes de Moraes</h1>
 
 <p align="center">
   ☕ Viciado em café, estudante de ADS.<br>
