@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Gabriel Gomes </h1>
+<h1 align="center">Pedro Gabriel Gomes</h1>
 
 <p align="center">
   ☕ Viciado em café, estudante de ADS.<br>
@@ -8,31 +8,39 @@
 ---
 
 ### 🚀 Tecnologias que estou aprendendo
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ---
 
 ### 📌 Projetos em destaque
 
-- 🔧 [Nome do Projeto SaaS](https://github.com/seunome/nome-do-repositorio) — descrição rápida
+- 🔧 [Nome do Projeto SaaS](https://github.com/seunome/nome-do-repositorio) — descrição rápida  
 - 📲 [App de finanças pessoais](https://github.com/seunome/nome-do-repositorio) — controle simples para iniciantes
 
 ---
 
 ### 📫 Como me encontrar
-- LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)
-- Instagram dev (se tiver): `@opgmoraes`
-- E-mail: `pedrogm.dev@gmail.com`
+
+- 💼 LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)  
+- 📸 Instagram Dev: `@opgmoraes`  
+- 📧 E-mail: `pedrogm.dev@gmail.com`
 
 ---
 
 ### ⚡ Curiosidades
-- 🚀 Criando e aprendendo sobre MicroSaas
-- ☕ Viciado em café coado ☕
+
+- 🚀 Criando e aprendendo sobre MicroSaaS  
+- ☕ Viciado em café coado  
 - 🏃 Corredor Amador
 
+---
+
+### 📊 Dashboard de Linguagens (uso percentual)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&layout=donut&theme=dark)](https://github.com/opgmoraes)
