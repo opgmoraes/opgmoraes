@@ -1,41 +1,38 @@
-# ☕ Pedro Gabriel Gomes
+<h1 align="center">Pedro Gabriel Gome </h1>
 
-**`Futuro desenvolvedor Web`**
-
-Eu me chamo Pedro Gabriel Gomes, tenho 19 anos e sou natural de Luziânia-GO, aos 9 anos fiz meus primeiro curso de informatica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unidesc, e também venho trabalhando em alguns projetos pessoais, construindo alguns MicroSaas, e buscando me especializar por enquanto em HTML, CSS e JavaScript.
+<p align="center">
+  ☕ Viciado em café, estudante de ADS.<br>
+  💻 Em busca de evoluir como Desenvolvedor de Software.
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Tecnologias que estou aprendendo
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-<br/>
-</p>
+---
 
+### 📌 Projetos em destaque
 
-[![opgmoraes](https://github-readme-stats.vercel.app/api?username=opgmoraes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- 🔧 [Nome do Projeto SaaS](https://github.com/seunome/nome-do-repositorio) — descrição rápida
+- 📲 [App de finanças pessoais](https://github.com/seunome/nome-do-repositorio) — controle simples para iniciantes
 
-[![opgmoraes](https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📫 Como me encontrar
+- LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)
+- Instagram dev (se tiver): `@opgmoraes`
+- E-mail: `pedrogm.dev@gmail.com`
+
+---
+
+### ⚡ Curiosidades
+- 🚀 Criando e aprendendo obre MicroSaas
+- ☕ Viciado em café coado ☕
+- 🏃 Corredor Amador
+
