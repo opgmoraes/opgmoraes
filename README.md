@@ -34,7 +34,7 @@
 ### ⚡ Curiosidades
 
 - 🚀 Criando e aprendendo sobre MicroSaaS  
-- ☕ Viciado em café coado  
+- ☕ Viciado em café  
 - 🏃 Corredor Amador
 
 ---
