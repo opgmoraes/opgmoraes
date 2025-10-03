@@ -41,6 +41,7 @@
 - ☕ Viciado em café  
 - 🏃 Corredor Amador
 
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
