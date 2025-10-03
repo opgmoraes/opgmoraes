@@ -58,10 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/snake.svg" alt="Snake animation" />
 
 <p align="left"></p>
