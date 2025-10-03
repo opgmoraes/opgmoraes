@@ -1,4 +1,3 @@
-
 <p align="center">
   ☕ Viciado em café, estudante de ADS.<br>
   💻 Em busca de evoluir como Desenvolvedor de Software.
@@ -36,13 +35,6 @@
 
 ---
 
-### 📫 Como me encontrar
-
-- 💼 LinkedIn: [seu perfil aqui](https://linkedin.com/in/seuperfil)   
-- 📧 E-mail: `pedrogm.dev@gmail.com`
-
----
-
 ### ⚡ Curiosidades
 
 - 🚀 Criando e aprendendo sobre MicroSaaS  
@@ -53,10 +45,14 @@
 
 <br clear="both">
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph"  />
 </div>
+
+---
 
 <img src="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/snake.svg" alt="Snake animation" />
 
