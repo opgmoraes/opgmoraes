@@ -46,4 +46,8 @@
 
 ### 📊 Dashboard de Linguagens 
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&layout=donut&theme=dark)](https://github.com/opgmoraes)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/opgmoraes/opgmoraes/output/pacman-contribution-graph.svg">
+</picture>
