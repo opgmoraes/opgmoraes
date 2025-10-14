@@ -3,9 +3,6 @@
   💻 Em busca de evoluir como Desenvolvedor de Software.
 </p>
 
-<!-- 
-  IMPORTANTE: Troque os links abaixo pelas suas informações pessoais.
--->
 <div align="center">
   <a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f60c49&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo" />
@@ -40,9 +37,6 @@
 ---
 
 ### 📌 Projetos em destaque
-<!-- 
-  TROQUE ABAIXO PELOS SEUS PROJETOS REAIS 
--->
 - 🔧 [Nome do Projeto SaaS](https://github.com/seunome/nome-do-repositorio) — descrição rápida
 - 📲 [App de finanças pessoais](https://github.com/seunome/nome-do-repositorio) — controle simples para iniciantes
 
@@ -61,3 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
+---
+
+### 📊 Meu Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/opgmoraes" alt="Gráfico de Contribuições de opgmoraes" />
+</p>
