@@ -4,13 +4,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank">
+  <a href="https://www.instagram.com/opgmoraes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f60c49&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/SEU_ID_DE_USUARIO" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
+  <a href="mailto:pedrogm.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/SEU_PERFIL_AQUI/" target="_blank">
@@ -51,8 +51,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="170" alt="languages graph" />
 </div>
 
 ---
