@@ -61,8 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/opgmoraes/opgmoraes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
