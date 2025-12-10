@@ -47,8 +47,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
