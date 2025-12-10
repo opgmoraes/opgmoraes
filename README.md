@@ -1,5 +1,5 @@
 <p align="center">
-  ☕ Viciado em café, estudante de ADS.<br>
+  💼 Estudate de ADS e Sistemas da informação.<br>
   💻 Em busca de evoluir como Desenvolvedor de Software.
 </p>
 
