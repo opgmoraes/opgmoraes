@@ -33,8 +33,8 @@
 ---
 
 ### 📌 Projetos em destaque
-- 🔧 [Nome do Projeto SaaS](https://github.com/seunome/nome-do-repositorio) — descrição rápida
-- 📲 [App de finanças pessoais](https://github.com/seunome/nome-do-repositorio) — controle simples para iniciantes
+-  BITTO (https://github.com/opgmoraes/bitto-oficial) — Plataforma de ferramentas que facilitam o estudo.
+-  Ocult Io (https://github.com/opgmoraes/Ocult.io) — Sistema para organização e sorteio de amigo secretp.
 
 ---
 
