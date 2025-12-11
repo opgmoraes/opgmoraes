@@ -47,10 +47,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opgmoraes&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Linguagens Mais Usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opgmoraes&theme=dracula" height="180" alt="Resumo do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opgmoraes&theme=dracula" height="180" alt="Linguagens" />
 </div>
-
 ---
 
 ### 📊 Meu Gráfico de Contribuições
