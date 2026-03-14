@@ -57,12 +57,14 @@ Estudante de ADS & Sistemas da Informação · Construindo soluções web · Exp
 ### github stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=opgmoraes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&theme=transparent&hide_border=true&layout=compact&langs_count=6" width="49%"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opgmoraes&theme=transparent" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opgmoraes&theme=transparent" height="180"/>
-<br/><br/>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+</div>
