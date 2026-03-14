@@ -19,9 +19,9 @@ Estudante de ADS & Sistemas da Informação · Construindo soluções web · Exp
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" style="border-radius:8px"/>
+  <img src="https://i.imgur.com/5nFkMTi.jpeg" width="280"/>
   <br>
-  <em>eu às 2am com café resolvendo um bug</em>
+  <em>eu debugando às 2am com café</em>
 </div>
 
 ---
