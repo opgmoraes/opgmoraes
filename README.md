@@ -19,11 +19,10 @@ Estudante de ADS & Sistemas da Informação · Construindo soluções web · Exp
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/5nFkMTi.jpeg" width="280"/>
+  <img src="https://media0.giphy.com/media/NTur7XlVDUdqM/200_s.gif" width="280"/>
   <br>
   <em>eu debugando às 2am com café</em>
 </div>
-
 ---
 
 ### stack
