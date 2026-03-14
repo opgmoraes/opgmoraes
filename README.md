@@ -57,13 +57,10 @@ Estudante de ADS & Sistemas da Informação · Construindo soluções web · Exp
 ### github stats
 
 <div align="center">
-```
-opgmoraes — github activity
-```
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opgmoraes&theme=transparent" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opgmoraes&theme=transparent" height="180"/>
 <br/><br/>
-<img src="https://ghchart.rshah.org/40c463/opgmoraes"/>
+<img src="https://ghchart.rshah.org/888780/opgmoraes"/>
 
 </div>
