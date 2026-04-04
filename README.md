@@ -57,7 +57,6 @@ Estudante de ADS & Sistemas da Informação · Construindo soluções web · Exp
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=opgmoraes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&theme=transparent&hide_border=true&layout=compact&langs_count=6" width="49%"/>
 </div>
 
 <div align="center">
