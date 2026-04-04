@@ -18,6 +18,14 @@ Ocupo meus dias transformando café em código e explorando o ecossistema de Mic
 
 ---
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/NTur7XlVDUdqM/200_s.gif" width="280"/>
+  <br>
+  <em>eu debugando às 2am com café</em>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
