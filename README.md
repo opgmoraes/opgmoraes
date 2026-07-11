@@ -1,68 +1,130 @@
 <div align="center">
 
 # Pedro Gabriel Gomes
-`opgmoraes`
 
-Estudante de ADS & Sistemas da Informação · Construindo soluções web · Explorando MicroSaaS
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Web+Developer+%26+Founder;Construindo+o+bitto+%F0%9F%9A%80;REST+APIs%2C+OAuth%2C+Firebase...;Node.js+em+andamento+%E2%9C%8D%EF%B8%8F;Luzi%C3%A2nia+%E2%86%92+o+mundo" alt="Typing SVG" />
 
-![status](https://img.shields.io/badge/status-open%20to%20opportunities-3fb950?style=flat-square&labelColor=161b22)
-![aprendendo](https://img.shields.io/badge/aprendendo-Node.js-e3b341?style=flat-square&labelColor=161b22)
-![localização](https://img.shields.io/badge/📍-Luziânia%2C%20GO-888?style=flat-square&labelColor=161b22)
+![semestre](https://img.shields.io/badge/SI-6%C2%BA%20semestre-38bdf8?style=flat-square&labelColor=0f172a)
+![localização](https://img.shields.io/badge/%F0%9F%93%8D-Luzi%C3%A2nia%2C%20GO-94a3b8?style=flat-square&labelColor=0f172a)
 
-[![Instagram](https://img.shields.io/badge/Instagram-f60c49?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/opgmoraes/)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/opgmoraes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/opgmoraes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogmdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrogm.dev@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/opgmoraes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/opgmoraes)
+
+![views](https://komarev.com/ghpvc/?username=opgmoraes&style=flat-square&color=0ea5e9&label=visitas+no+perfil)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/NTur7XlVDUdqM/200_s.gif" width="280"/>
-  <br>
-  <em>eu debugando às 2am com café</em>
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="360"/>
+  <br/>
+  <sub><i>eu às 23h tentando entender por que tá quebrando em produção</i></sub>
 </div>
-
-
-### stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-learning-e3b341?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22)
-
----
-
-### projetos
-
-| | Projeto | Descrição | Stack |
-|---|---|---|---|
-| 🟢 | [bitto](https://github.com/opgmoraes/bitto-oficial) | Plataforma de ferramentas que facilitam o estudo | `JS` `HTML` `CSS` |
-| 🟢 | [ocult.io](https://github.com/opgmoraes/Ocult.io) | Sorteio de amigo secreto — simples e sem cadastro | `JS` `HTML` `CSS` |
 
 ---
 
 ### sobre mim
 
-🚀 **atualmente** → construindo MicroSaaS  
-🎓 **estudando** → ADS + Sistemas da Informação  
-☕ **combustível** → café, sempre  
-🏃 **hobby** → corrida amadora  
+```txt
+nome      → Pedro Gabriel Gomes
+cargo     → Web Developer & Founder
+estudando → Sistemas de Informação (6º semestre)
+projeto   → bitto — plataforma de ferramentas de estudo
+stack     → JS · React · Node.js · Firebase · REST APIs
+deploy    → Vercel · Google Cloud
+site      → usebitto.com
+```
+
+Construo produtos do zero: da ideia ao deploy, passando por design, código e integração com APIs. Penso em produto como negócio — não só entrego código, entrego solução.
+
+---
+
+### bitto ⭐
+
+> Plataforma de ferramentas que facilitam o estudo — meu projeto principal.
+
+[![ver repositório](https://img.shields.io/badge/github-bitto--oficial-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/opgmoraes/bitto-oficial)
+[![site](https://img.shields.io/badge/site-usebitto.com-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://www.usebitto.com)
+
+| | |
+|---|---|
+| **Stack** | JavaScript · React · Firebase · Vercel |
+| **Auth** | OAuth Google |
+| **Integrações** | REST APIs · APIs de IA |
+| **Design** | Figma → produção |
+| **Responsável** | tudo (produto, design, código, deploy) |
+
+Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy e acompanhamento de uso. Esse projeto é o que melhor representa como eu trabalho.
+
+---
+
+### stack
+
+<div align="center">
+
+**· Front-end ·**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**· Back-end & Banco de dados ·**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+
+**· Integrações ·**
+
+![REST API](https://img.shields.io/badge/REST%20API-0ea5e9?style=flat-square&labelColor=0f172a)
+![OAuth](https://img.shields.io/badge/OAuth-Google%20%2F%20GitHub-38bdf8?style=flat-square&labelColor=0f172a)
+![APIs de IA](https://img.shields.io/badge/APIs%20de%20IA-integradas-7dd3fc?style=flat-square&labelColor=0f172a)
+![Webhooks](https://img.shields.io/badge/Webhooks-ativo-38bdf8?style=flat-square&labelColor=0f172a)
+
+**· Ferramentas ·**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ### github stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=opgmoraes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=opgmoraes&theme=transparent&hide_border=true&ring=0ea5e9&fire=38BDF8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" width="49%"/>
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94a3b8&langs_count=6" width="38%"/>
+</div>
+
+---
+
+### contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>construído com café ☕ e muita Stack Overflow</sub>
 </div>
