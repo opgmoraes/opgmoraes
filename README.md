@@ -102,14 +102,9 @@ Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy 
 
 ### github stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opgmoraes&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=opgmoraes&theme=transparent&hide_border=true&ring=0ea5e9&fire=38BDF8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opgmoraes&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94a3b8&langs_count=6" width="38%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opgmoraes&theme=dark&hide_border=true&ring=0ea5e9&fire=38BDF8&currStreakLabel=94a3b8&sideLabels=94a3b8" width="48%" alt="GitHub Streak" />
+</p>
 
 ---
 
