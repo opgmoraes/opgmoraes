@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Web+Developer+%26+Founder;Construindo+o+bitto+%F0%9F%9A%80;REST+APIs%2C+OAuth%2C+Firebase...;Node.js+em+andamento+%E2%9C%8D%EF%B8%8F;Luzi%C3%A2nia+%E2%86%92+o+mundo" alt="Typing SVG" />
 
-![semestre](https://img.shields.io/badge/SI-6%C2%BA%20semestre-38bdf8?style=flat-square&labelColor=0f172a)
+![formação](https://img.shields.io/badge/ADS-Formado-38bdf8?style=flat-square&labelColor=0f172a)
 ![localização](https://img.shields.io/badge/%F0%9F%93%8D-Luzi%C3%A2nia%2C%20GO-94a3b8?style=flat-square&labelColor=0f172a)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/opgmoraes/)
@@ -32,9 +32,9 @@
 ```txt
 nome      → Pedro Gabriel Gomes
 cargo     → Web Developer & Founder
-estudando → Sistemas de Informação (6º semestre)
+formação  → Análise e Desenvolvimento de Sistemas (Formado)
 projeto   → bitto — plataforma de ferramentas de estudo
-stack     → JS · React · Node.js · Firebase · REST APIs
+stack     → JS · React · Node.js · TypeScript · Firebase · REST APIs
 deploy    → Vercel · Google Cloud
 site      → usebitto.com
 ```
@@ -47,18 +47,17 @@ Construo produtos do zero: da ideia ao deploy, passando por design, código e in
 
 > Plataforma de ferramentas que facilitam o estudo — meu projeto principal.
 
-[![ver repositório](https://img.shields.io/badge/github-bitto--oficial-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/opgmoraes/bitto-oficial)
 [![site](https://img.shields.io/badge/site-usebitto.com-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://www.usebitto.com)
 
 | | |
 |---|---|
-| **Stack** | JavaScript · React · Firebase · Vercel |
+| **Stack** | JavaScript · React · Node.js · TypeScript · Firebase · Vercel |
 | **Auth** | OAuth Google |
-| **Integrações** | REST APIs · APIs de IA |
+| **Integrações** | REST APIs · APIs de IA (OpenAI, Gemini) |
 | **Design** | Figma → produção |
 | **Responsável** | tudo (produto, design, código, deploy) |
 
-Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy e acompanhamento de uso. Esse projeto é o que melhor representa como eu trabalho.
+Do zero: ideia, Figma, front-end, back-end, autenticação, integração com APIs, deploy e acompanhamento de uso. Esse projeto é o que melhor representa como eu trabalho.
 
 ---
 
@@ -66,27 +65,28 @@ Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy 
 
 <div align="center">
 
-**· Front-end ·**
+**· Linguagens ·**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**· Front-end ·**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **· Back-end & Banco de dados ·**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
 **· Integrações ·**
 
 ![REST API](https://img.shields.io/badge/REST%20API-0ea5e9?style=flat-square&labelColor=0f172a)
 ![OAuth](https://img.shields.io/badge/OAuth-Google%20%2F%20GitHub-38bdf8?style=flat-square&labelColor=0f172a)
-![APIs de IA](https://img.shields.io/badge/APIs%20de%20IA-integradas-7dd3fc?style=flat-square&labelColor=0f172a)
-![Webhooks](https://img.shields.io/badge/Webhooks-ativo-38bdf8?style=flat-square&labelColor=0f172a)
+![APIs de IA](https://img.shields.io/badge/APIs%20de%20IA-OpenAI%20%26%20Gemini-7dd3fc?style=flat-square&labelColor=0f172a)
 
 **· Ferramentas ·**
 
@@ -94,7 +94,6 @@ Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -117,6 +116,41 @@ Do zero: ideia, Figma, front-end, autenticação, integração com APIs, deploy 
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
+
+---
+
+### projetos
+
+**BITTO** — Plataforma de ferramentas de estudo com IA  
+Stack: React · Node.js · TypeScript · Firebase · Vercel | [usebitto.com](https://usebitto.com)
+
+**ZeloCamp** — Startup selecionada AgroStartup 2026  
+Líder técnico de projeto de inovação para agronegócio
+
+**CineGift** — Plataforma de presentes personalizados  
+Stack: React · Node.js · TypeScript | [cinegift.com.br](https://www.cinegift.com.br)
+
+**Bagagem Dev** — Plataforma de aprendizado  
+Compartilhando conhecimentos de desenvolvimento | [opgmoraes.github.io/bagagemdev](https://opgmoraes.github.io/bagagemdev)
+
+**Ocult.io** — Sistema de Amigo Secreto  
+Stack: JavaScript · TypeScript · Firebase
+
+---
+
+### vamos trabalhar
+
+Estou aberto para oportunidades em:
+- Desenvolvedor Full Stack Junior
+- Desenvolvedor Frontend React
+- Desenvolvedor Backend Node.js
+- Parcerias em tech
+
+📧 **Email**: pedrogm.dev@gmail.com  
+📱 **WhatsApp**: (61) 99335-9477  
+🔗 **LinkedIn**: [linkedin.com/in/pedrogmdev](https://linkedin.com/in/pedrogmdev)  
+🌐 **Portfólio**: [opgmoraes.github.io/pedrodev](https://opgmoraes.github.io/pedrodev)  
+🚀 **BITTO**: [usebitto.com](https://usebitto.com)
 
 ---
 
